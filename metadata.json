@@ -1,0 +1,8 @@
+{
+  "name": "Di Sản Then Liên Vùng - Hồ Sơ Số Đối Chiếu Diễn Xướng Then Nghi Lễ Thái (Sơn La) & Tày (Cao Bằng)",
+  "description": "Ứng dụng số hóa, đối chiếu khoa học 15 bản ghi thực hành Then nghi lễ giữa người Thái (Sơn La) và người Tày (Cao Bằng) - Đề tài J01.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
